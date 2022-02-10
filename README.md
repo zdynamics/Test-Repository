@@ -9,6 +9,8 @@ A powerful library/project/investigation for engineers!
 		- [Feature I](#feature-i)
 		- [Feature II](#feature-ii)
 		- [Feature III](#feature-iii)
+	- [Future Work](#future-work)
+	- [References](#references)
 
 ## Introduction
 
