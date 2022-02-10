@@ -90,6 +90,8 @@ This may be used to...
 - [x] ~~Task 2 to be done in the future~~
 - [ ] Task 3 to be done in the future :smile:
 
+[*Back to top*](#my-repository)
+
 ---
 
 ![The Future is Robotics!](https://zdynamics186900007.files.wordpress.com/2021/06/pp.jpg "Our Team!")
@@ -99,3 +101,5 @@ This may be used to...
 [^1]: This is my first reference
 [^thesis]: This is the PhD Thesis
 [^research]: This is the research paper
+
+[*Back to top*](#my-repository)
